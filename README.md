@@ -8,6 +8,6 @@
 4. Доступные в БД вакансии можно выгрузить в файл в формате Excel.
 
 # Роли:
-* СП, АД | [Троц Н.В.](https://mrskylines.github.io/stankin.io.trots2/index...)
-* РП, ВН, НИ | [Коркмасов Д.Д.](https://jimmyeagleeye.github.io/stankin.io.korkmasov/..)
-* БА, КО, ПП | [Крюков А.С.](http://alexeykrukov.github.io/Stankin.io.Krukov2/inde..)
+* СП, АД | [Троц Н.В.](https://mrskylines.github.io/stankin.io.trots2/index.html)
+* РП, ВН, НИ | [Коркмасов Д.Д.](https://jimmyeagleeye.github.io/stankin.io.korkmasov/index.html)
+* БА, КО, ПП | [Крюков А.С.](http://alexeykrukov.github.io/Stankin.io.Krukov2/index.html)
